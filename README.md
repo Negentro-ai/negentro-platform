@@ -17,7 +17,7 @@ The two apps link to each other. **Continue as guest** on the sign-in page opens
 ## Quick start
 
 ```bash
-git clone https://github.com/NegentroWorld/negentro-platform.git
+git clone https://github.com/Negentro-ai/negentro-platform.git
 cd negentro-platform
 ```
 
